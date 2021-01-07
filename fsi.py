@@ -31,7 +31,7 @@ by the damped viscoelastic wave equation. The problem is given by:
     and initial history
         w_t(s) = z0(s),     in (-r,0) times Omega_s.
 
-Here, u, p and w denote the fluid velocity, fluid pressure and strucutre
+Here, u, p and w denote the fluid velocity, fluid pressure and structure
 displacement. The boundary conditions on the interface are obtained by
 imposing continuity of the velocities and the normal stresses. We have a
 no-slip boundary condition on the remaining part of the boundary of the
