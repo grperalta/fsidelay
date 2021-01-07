@@ -42,7 +42,7 @@ Spatial discretization is based on finite elements. P1-bubble/P1 pair
 P1 elements for the solid displacement and velocity. For the time
 discretization, an implicit Euler scheme is used.
 The three standard python packages NumPy, SciPy and Matplotlib are
-required in the implementation. See the accompanying file <fsinumex.py>
+required in the implementation. See the accompanying file `fsinumex.py`
 for the implementation of the numerical examples. 
 
 If you find these codes useful, you can cite the manuscript as:
