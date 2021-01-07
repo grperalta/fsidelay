@@ -1,6 +1,6 @@
 # fsidelay
 
-This Python module approximates the solution of the following optimal
+This Python 2.7 module approximates the solution of the following optimal
 control problem for a fluid-structure interaction model with delay on
 the damping term of the structure. The fluid is modeled by the linearized 
 incompressible Navier-Stokes equation and the solid/structure is governed
